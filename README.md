@@ -1,5 +1,7 @@
 # Lets Build an Agent
 
+> Originally published at [mfdtrade/agent-talk-2025](https://github.com/mfdtrade/agent-talk-2025). This repo is a mirror with full history, kept as the stable home for the talk ([video](https://www.youtube.com/watch?v=xzXdLRUyjUg)).
+
 Code and Content for Lets Build an Agent Talk Feb 2025. The purpose here is to build the smallest simplest version of an agent. Said another way, we want to get to find the tipping point from non-agentic to agentic.
 
 
